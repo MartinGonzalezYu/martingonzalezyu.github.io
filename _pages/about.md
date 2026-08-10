@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Mathematics MSc student at ETH Zürich
+subtitle: 
 
 profile:
   align: right
