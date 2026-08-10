@@ -11,11 +11,13 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+Nothing to see here yet.
 
-{% include bib_search.liquid %}
 
-<div class="publications">
+#{% include bib_search.liquid %}
 
-{% bibliography %}
+#<div class="publications">
+
+#{% bibliography %}
 
 </div>
