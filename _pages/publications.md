@@ -17,18 +17,21 @@ nav_order: 2
 
 ## Papers
 
-{% bibliography --file papers %}
+Nothing here yet.
 
 ## Preprints
 
-{% bibliography --file preprints %}
+Nothing here yet
 
 ## Thesis
 
-{% bibliography --file thesis %}
+**2025**
+-Mathematics BSc Thesis (supervised by Joan Porti): _title_
+-Physics BSc Thesis (supervised by Fabrizio Rompineve): _title_
 
 ## Others
 
-{% bibliography --file others %}
+**2026**
+-Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra): __
 
 </div>
