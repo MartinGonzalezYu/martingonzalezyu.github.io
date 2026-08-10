@@ -13,11 +13,11 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="publications" markdown="1">
 
 ## Papers
 
-Nothing here yet.
+- [Example paper](/assets/pdf/example_pdf.pdf)
 
 ## Preprints
 
@@ -26,12 +26,12 @@ Nothing here yet
 ## Thesis
 
 **2025**
--Mathematics BSc Thesis (supervised by Joan Porti): _title_
--Physics BSc Thesis (supervised by Fabrizio Rompineve): _title_
+- Mathematics BSc Thesis (supervised by Joan Porti): [_title_](/assets/pdf/Plateau_s_Problem__TFG_mates_.pdf)
+- Physics BSc Thesis (supervised by Fabrizio Rompineve): [_title_](/assets/pdf/TFG_topdefects_1600984.pdf)
 
 ## Others
 
 **2026**
--Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra): __
+- Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra): [_](/assets/pdf/SemesterPaper.pdf)
 
 </div>
