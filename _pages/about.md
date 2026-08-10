@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <i class="fa fa-envelope-open" aria-hidden="true"></i> <p style="text-align: center;">mgonza@student.ethz.ch</p>
+      <p style="text-align: center;"><i class="fa fa-envelope-open" aria-hidden="true"></i> mgonza@student.ethz.ch</p>
     
     
     
