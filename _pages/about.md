@@ -35,5 +35,5 @@ I am now in Zürich pursuing my MSc in (Pure) Mathematics at [ETH Zürich]([http
 
 Following my Master's degree, I plan to pursue a PhD. My research interests broadly lie in PDEs, geometric analysis, the calculus of variations, and minimal surface theory.
 
-For my full CV click [here]
+For my full CV click [here](/assets/pdf/CV_eng_Aug2026.pdf)
 
