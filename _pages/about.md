@@ -7,7 +7,7 @@ subtitle: Mathematics MSc student at ETH Zürich
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>email</p>
     <p><a href="https://www.linkedin.com/in/martin-gonz%C3%A1lez-yu-570b95294">LinkedIn</a></p>
