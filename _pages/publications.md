@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications" markdown="1">
 
@@ -26,12 +26,17 @@ Nothing here yet
 ## Thesis
 
 **2025**
-- Mathematics BSc Thesis (supervised by Joan Porti): [_title_](/assets/pdf/Plateau_s_Problem__TFG_mates_.pdf)
-- Physics BSc Thesis (supervised by Fabrizio Rompineve): [_title_](/assets/pdf/TFG_topdefects_1600984.pdf)
+- Mathematics BSc Thesis (supervised by Joan Porti @ UAB): [_The Plateau Problem and Minimal
+Surface Theory:
+An Exposition of Douglas’s Proof_](/assets/pdf/Plateau_s_Problem__TFG_mates_.pdf)
+- Physics BSc Thesis (supervised by Fabrizio Rompineve @UAB): [_Formation and Evolution of Topological
+Defects in the Early Universe_](/assets/pdf/TFG_topdefects_1600984.pdf)
 
 ## Others
 
 **2026**
-- Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra): [_](/assets/pdf/SemesterPaper.pdf)
+- Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra @ ETH Zürich): [_Minimal Hypersurfaces in Closed
+Riemannian Manifolds via the
+Allen-Cahn Energy_](/assets/pdf/SemesterPaper.pdf)
 
 </div>
