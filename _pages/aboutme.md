@@ -7,4 +7,4 @@ nav: true
 nav_order: 3
 ---
 
-<!-- cooking, sports, nature, food, piano -->
+<!-- cooking, sports, nature, food, piano, languages -->
