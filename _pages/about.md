@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>mgonza@student.ethz.ch</p>
-    # <p><a href="https://www.linkedin.com/in/martin-gonz%C3%A1lez-yu-570b95294">LinkedIn</a></p>
+    
     
     
 
