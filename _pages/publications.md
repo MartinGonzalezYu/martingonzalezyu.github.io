@@ -27,7 +27,7 @@ nav_order: 2
 - Mathematics BSc Thesis (supervised by Joan Porti @ UAB): [_The Plateau Problem and Minimal
 Surface Theory:
 An Exposition of Douglas’s Proof_](/assets/pdf/Plateau_s_Problem__TFG_mates_.pdf)
-- Physics BSc Thesis (supervised by Fabrizio Rompineve @UAB): [_Formation and Evolution of Topological
+- Physics BSc Thesis (supervised by Fabrizio Rompineve @ UAB): [_Formation and Evolution of Topological
 Defects in the Early Universe_](/assets/pdf/TFG_topdefects_1600984.pdf)
 
 ## Others
