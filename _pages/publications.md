@@ -15,13 +15,11 @@ nav_order: 2
 
 <div class="publications" markdown="1">
 
-## Papers
+<!--## Papers
 
-- [Example paper](/assets/pdf/example_pdf.pdf)
 
 ## Preprints
-
-Nothing here yet
+-->
 
 ## Thesis
 
