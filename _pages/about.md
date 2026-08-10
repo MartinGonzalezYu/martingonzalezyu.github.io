@@ -10,7 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>mgonza@student.ethz.ch</p>
-    <p><a href="https://www.linkedin.com/in/martin-gonz%C3%A1lez-yu-570b95294">LinkedIn</a></p>
+    # <p><a href="https://www.linkedin.com/in/martin-gonz%C3%A1lez-yu-570b95294">LinkedIn</a></p>
+    
     
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -35,5 +36,5 @@ I am now in Zürich pursuing my MSc in (Pure) Mathematics at [ETH Zürich]([http
 
 Following my Master's degree, I plan to pursue a PhD. My research interests broadly lie in PDEs, geometric analysis, the calculus of variations, and minimal surface theory.
 
-For my full CV click [here](/assets/pdf/CV_eng_Aug2026.pdf)
+For my full CV click [here](/assets/pdf/CV_eng_Aug2026.pdf).
 
