@@ -21,7 +21,12 @@ nav_order: 2
 ## Preprints
 -->
 
-## Thesis
+## Thesis & Other Projects
+
+**2026**
+- Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra @ ETH Zürich): [_Minimal Hypersurfaces in Closed
+Riemannian Manifolds via the
+Allen-Cahn Energy_](/assets/pdf/SemesterPaper.pdf)
 
 **2025**
 - Mathematics BSc Thesis (supervised by Joan Porti @ UAB): [_The Plateau Problem and Minimal
@@ -30,11 +35,9 @@ An Exposition of Douglas’s Proof_](/assets/pdf/Plateau_s_Problem__TFG_mates_.p
 - Physics BSc Thesis (supervised by Fabrizio Rompineve @ UAB): [_Formation and Evolution of Topological
 Defects in the Early Universe_](/assets/pdf/TFG_topdefects_1600984.pdf)
 
-## Others
+**2024**
+- Typeset lecture notes (in Catalan) for the course _Topologia de Varietats_, taught by Joan Porti and Natalia Castellana: [pdf](/assets/pdf/Apunts_Topologia_de_Varietats_2024_25)
 
-**2026**
-- Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra @ ETH Zürich): [_Minimal Hypersurfaces in Closed
-Riemannian Manifolds via the
-Allen-Cahn Energy_](/assets/pdf/SemesterPaper.pdf)
+
 
 </div>
