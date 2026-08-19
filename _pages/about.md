@@ -2,13 +2,13 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle: Welcome to my page!
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info: ""
     
     
 
@@ -26,7 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my page!
 
 My name is Martin and I am from Barcelona, Spain. I graduated in 2025 with a BSc in Mathematics and a BSc in Physics from the [Autonomous University of Barcelona (UAB)](https://www.uab.cat/web/estudiar/ehea-degrees/general-information/physics-mathematics-1216708259085.html?cid=1216708259085&d=Touch&pagename=UAB%2FPage%2FTemplatePageDetallGrauUAB_F4&param1=1216795185845). 
 
