@@ -24,7 +24,7 @@ nav_order: 2
 ## Thesis & Other Projects
 
 **2026**
-- Semester Project (supervised by Dr. Marco Badran & Prof. Joaquim Serra @ ETH Zürich): [Minimal Hypersurfaces in Closed
+- Semester Project (supervised by Marco Badran & Joaquim Serra @ ETH Zürich): [Minimal Hypersurfaces in Closed
 Riemannian Manifolds via the
 Allen-Cahn Energy](/assets/pdf/SemesterPaper.pdf)
 
@@ -36,7 +36,7 @@ An Exposition of Douglas’s Proof](/assets/pdf/Plateau_s_Problem__TFG_mates_.pd
 Defects in the Early Universe](/assets/pdf/TFG_topdefects_1600984.pdf)
 
 **2024**
-- Typeset [lecture notes](/assets/pdf/Apunts_Topologia_de_Varietats_2024_25.pdf) (in Catalan) for the course _Topologia de Varietats_, taught by Joan Porti and Natalia Castellana, covering homotopy and singular homology
+- Typeset [lecture notes](/assets/pdf/Apunts_Topologia_de_Varietats_2024_25.pdf) (in Catalan) for the course _Topologia de Varietats_ (taught by Joan Porti and Natalia Castellana @ UAB) covering homotopy and singular homology
 
 
 
