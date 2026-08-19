@@ -36,7 +36,7 @@ An Exposition of Douglas’s Proof](/assets/pdf/Plateau_s_Problem__TFG_mates_.pd
 Defects in the Early Universe](/assets/pdf/TFG_topdefects_1600984.pdf)
 
 **2024**
-- Typeset [lecture notes](/assets/pdf/Apunts_Topologia_de_Varietats_2024_25.pdf) (in Catalan) for the course _Topologia de Varietats_, taught by Joan Porti and Natalia Castellan and covering homotopy and singular homology.
+- Typeset [lecture notes](/assets/pdf/Apunts_Topologia_de_Varietats_2024_25.pdf) (in Catalan) for the course _Topologia de Varietats_, taught by Joan Porti and Natalia Castellana, covering homotopy and singular homology
 
 
 
