@@ -33,5 +33,5 @@ I am now in Zürich pursuing an MSc in (Pure) Mathematics at [ETH Zürich](https
 
 Following my Master's degree, I plan to pursue a PhD. My research interests broadly lie in PDEs, geometric analysis, the calculus of variations, and minimal surface theory.
 
-You can write to me by email at mgonza [at] student.ethz.ch or message me through [LinkedIn](https://www.linkedin.com/in/martin-gonz%C3%A1lez-yu-570b95294/). Here you can find [my full CV](/assets/pdf/cv.pdf).
+You can write to me by email at [**mgonza[at]student.ethz.ch**](mailto:mgonza@student.ethz.ch) or message me through [LinkedIn](https://www.linkedin.com/in/martin-gonz%C3%A1lez-yu-570b95294/). Here you can find [my full CV](/assets/pdf/cv.pdf).
 
