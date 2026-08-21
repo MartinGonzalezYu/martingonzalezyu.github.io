@@ -44,7 +44,7 @@ nav_order: 3
       <figure class="gallery-item" data-caption="Not so serious graduation class photo.">
         <img src="{{ '/assets/img/aboutme/photo6.jpeg' | relative_url }}" alt="Photo 6">
       </figure>
-     <figure class="gallery-item" data-caption="Went to Dublin (Ireland) to participate in the 2025 PLANCKS final with the Oppenhomies team.">
+     <figure class="gallery-item" data-caption="Went to Dublin (Ireland) to participate in the 2024 PLANCKS final with the Oppenhomies team.">
         <img src="{{ '/assets/img/aboutme/photo11.jpg' | relative_url }}" alt="Photo 11">
       </figure>
     
