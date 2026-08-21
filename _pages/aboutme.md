@@ -2,36 +2,52 @@
 layout: page
 permalink: /aboutme/
 title: About me
-description: Some information about me together with related photos.  
+description: Here you can get to know me a bit beyond maths
 nav: true
 nav_order: 3
 ---
 
 <section class="about-me">
-  <h1>About me</h1>
-  <p class="intro">Hello — I'm Martin. This page is a short bio and a gallery where I share photos and short stories. Replace this paragraph with a brief description about yourself: who you are, what you do, and what you enjoy.</p>
+  <h2>Basic info</h2>
+  <p class="intro">
+    Hi! My name is Martin Gonzalez Yu (half Spanish, half Asian). I was born in 2002 and raised in Sant Cugat del Vallès, a large town about 30 minutes away from Barcelona. I speak fluent Catalan, Spanish, and English. I am also trying to learn German, and I can roughly understand French and Italian.
+  </p>
 
-  <h2>Gallery</h2>
-  <p class="gallery-note">Click on any image to view a larger version and a short caption.</p>
+  <h2>My interests</h2>
+  <p class="intro">Here is a list of some of my hobbies and interests:</p>
+  <ul class="intro">
+    <li><strong>Food and cooking</strong>, although I cannot stand doing the dishes.</li>
+    <li><strong>Sports:</strong> currently, I mostly do calisthenics and run, but I am open to anything.</li>
+    <li><strong>Nature, hiking, and animals.</strong> I particularly enjoy any place with a large body of fresh water to swim in.</li>
+    <li><strong>Music:</strong> I like listening to almost anything and have taught myself to play the piano.</li>
+  </ul>
 
+  <h2>My trajectory</h2>
+  <p class="intro">
+    After finishing high school, I decided to study mathematics and physics (a very common double degree program in Spain) at UAB for two reasons: I have always liked both subjects, and I enjoy a challenge. At first, I was more interested in theoretical physics, but after getting into pure math, I had a clear preference. During my undergrad studies, I took a small detour from pure science to learn some data analysis and intern at a consulting firm for a summer. I also did an exchange semester in Bologna, Italy, where I got to eat some great food and travel around the country.
+  </p>
+  <p class="intro">
+    After graduating, I can confidently say that my choice of degree was one of the best decisions I have ever made, both because of what I learned and the environment I was in. All of this has made me want to pursue a PhD in Mathematics. To get ready for that, I am currently doing an MSc at ETH Zürich, which has been possible thanks to a scholarship from the "la Caixa" Foundation.
+  </p>
+
+  <h2>Some photos</h2>
+  <!---<p class="gallery-note">Click on any image to view a larger version and a short caption.</p> --->
   <div class="gallery" aria-live="polite">
     <!--
       Add your images to assets/images/aboutme/ and name them photo1.jpg, photo2.jpg, etc.
       For each .gallery-item set the data-caption attribute to the description you want shown when clicked.
       Example:
     --->
-        <figure class="gallery-item" data-caption="A relaxing day hiking in the mountains.">
-          <img src="{{ '/assets/img/aboutme/photo1.jpg' | relative_url }}" alt="Hiking in mountains">
-          <figcaption>Hiking</figcaption>
-        </figure>
     <figure class="gallery-item" data-caption="Describe this photo here.">
-      <img src="{{ '/assets/img/aboutme/photo2.jpg' | relative_url }}" alt="Photo 1">
-      <figcaption>Photo 2</figcaption>
+      <img src="{{ '/assets/img/aboutme/photo2.jpg' | relative_url }}" alt="Here I am officially receiving my scholarship to study at ETH Zürich from His Majesty King Felipe VI.">
     </figure>
-    <figure class="gallery-item" data-caption="Describe this photo here.">
+    <figure class="gallery-item" data-caption="A photo taken during the 'la Caixa' scholarship award ceremony.">
       <img src="{{ '/assets/img/aboutme/photo3.jpg' | relative_url }}" alt="Photo 2">
-      <figcaption>Photo 3</figcaption>
     </figure>
+      <figure class="gallery-item" data-caption="A relaxing day hiking in the mountains.">
+        <img src="{{ '/assets/img/aboutme/photo1.jpg' | relative_url }}" alt="Cooking a paella for my hometown's 2026 Concurs d'arrossos (rice-cooking contest).">
+      </figure>
+    
 
     <figure class="gallery-item" data-caption="Describe this photo here.">
       <img src="{{ '/assets/images/aboutme/photo3.jpg' | relative_url }}" alt="Photo 3">
@@ -131,4 +147,3 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
-<!-- cooking, sports, nature, food, piano, languages -->
