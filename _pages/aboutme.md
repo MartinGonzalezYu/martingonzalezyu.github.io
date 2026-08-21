@@ -45,7 +45,7 @@ nav_order: 3
         <img src="{{ '/assets/img/aboutme/photo1.jpg' | relative_url }}" alt="Photo 1">
       </figure>
       <figure class="gallery-item" data-caption="Not so serious graduation class photo.">
-        <img src="{{ '/assets/img/aboutme/photo6.jpg' | relative_url }}" alt="Photo 6">
+        <img src="{{ '/assets/img/aboutme/photo6.jpeg' | relative_url }}" alt="Photo 6">
       </figure>
       <figure class="gallery-item" data-caption="Some running.">
         <img src="{{ '/assets/img/aboutme/photo7.jpg' | relative_url }}" alt="Photo 7">
@@ -62,13 +62,10 @@ nav_order: 3
     <figure class="gallery-item" data-caption="From my time in Bologna">
         <img src="{{ '/assets/img/aboutme/photo4.jpg' | relative_url }}" alt="Photo 4">
       </figure>
-      <figure class="gallery-item" data-caption="Went to Dublin, Ireland to participate in the 2025 PLANCKS final with the Oppenhomies team.">
-        <img src="{{ '/assets/img/aboutme/photo11.jpg' | relative_url }}" alt="Photo 11">
-      </figure>
       <figure class="gallery-item" data-caption="Paragliding in the Engelberg valley.">
         <img src="{{ '/assets/img/aboutme/photo12.jpg' | relative_url }}" alt="Photo 12">
       </figure>
-      <figure class="gallery-item" data-caption="Went to Dublin, Ireland to participate in the 2025 PLANCKS final with the Oppenhomies team.">
+      <figure class="gallery-item" data-caption="Went to Dublin (Ireland) to participate in the 2025 PLANCKS final with the Oppenhomies team.">
         <img src="{{ '/assets/img/aboutme/photo11.jpg' | relative_url }}" alt="Photo 11">
       </figure>
       <figure class="gallery-item" data-caption="Hiking Tre Cime di Lavaredo in Dolomiti.">
@@ -77,12 +74,6 @@ nav_order: 3
       <figure class="gallery-item" data-caption="My dog.">
         <img src="{{ '/assets/img/aboutme/photo14.jpg' | relative_url }}" alt="Photo 14">
       </figure>
-    
-
-    <figure class="gallery-item" data-caption="Describe this photo here.">
-      <img src="{{ '/assets/images/aboutme/photo3.jpg' | relative_url }}" alt="Photo 3">
-      <figcaption>Photo 3</figcaption>
-    </figure>
 
     <!-- Duplicate the block above for more images -->
   </div>
