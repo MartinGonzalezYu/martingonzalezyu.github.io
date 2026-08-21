@@ -21,15 +21,15 @@ nav_order: 3
       Example:
     --->
         <figure class="gallery-item" data-caption="A relaxing day hiking in the mountains.">
-          <img src="{{ '/assets/images/aboutme/photo1.jpg' | relative_url }}" alt="Hiking in mountains">
+          <img src="{{ '/assets/img/aboutme/photo1.jpg' | relative_url }}" alt="Hiking in mountains">
           <figcaption>Hiking</figcaption>
         </figure>
     <figure class="gallery-item" data-caption="Describe this photo here.">
-      <img src="{{ '/assets/images/aboutme/photo2.jpg' | relative_url }}" alt="Photo 1">
+      <img src="{{ '/assets/img/aboutme/photo2.jpg' | relative_url }}" alt="Photo 1">
       <figcaption>Photo 2</figcaption>
     </figure>
     <figure class="gallery-item" data-caption="Describe this photo here.">
-      <img src="{{ '/assets/images/aboutme/photo3.jpg' | relative_url }}" alt="Photo 2">
+      <img src="{{ '/assets/img/aboutme/photo3.jpg' | relative_url }}" alt="Photo 2">
       <figcaption>Photo 3</figcaption>
     </figure>
 
