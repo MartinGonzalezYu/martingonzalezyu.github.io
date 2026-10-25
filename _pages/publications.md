@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /research/
+title: Research
 description: Papers, preprints, thesis and other projects.
 nav: true
 nav_order: 2
